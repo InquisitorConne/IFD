@@ -12,6 +12,6 @@ Rechts dieser Artikel wird dauerhaft eine Deutschlandkarte eingeblendet. Dort ka
 
 Sinn der Karte ist es, dass das Nutzeri durch hinzufügen von Markierungen der in den Artikeln erwähnten Polizeireviere einen 
 
-Eindruck davon bekommt, wie verbeitet rechtes Gedankengut innerhalb der Polizei ist. 
+Eindruck davon bekommt, wie verbeitet rechtsextremen Gedankengut innerhalb der Polizei ist. 
 
 So wird implizit die Frage gestellt ob es sich tatsächlich um Einzelfälle oder ein strukturelles Problem handelt. 
