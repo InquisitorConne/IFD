@@ -1,10 +1,10 @@
-# Interaktive Karte der rechten "Einzelfälle" in der deutschen Polizei
+# Interaktive Karte der rechtsextremen "Einzelfälle" in der deutschen Polizei
 
-Meine Idee für eine Interaktive Infografik ist die eine Darstellung der rechten Einzelfälle in der Polizei.
+Meine Idee für eine Interaktive Infografik ist die eine Darstellung der rechtsextremen Einzelfälle in der Polizei.
 
 Dazu werde ich in Recherchearbeit Zeitungsartikel zu den verschiedensten Vorfällen wie Verschicken rechter Memes, 
 
-völkerrechtswidriger Aussagen und Chatverläufe und mehr suchen und auf einer Timeline einordnen.
+völkerrechtswidriger Aussagen, rassistischer Chatverläufe und mehr suchen und auf einer Timeline einordnen.
 
 Diese Timeline kann das Nutzeri durchscrollen. 
 
