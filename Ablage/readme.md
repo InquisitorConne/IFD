@@ -1,5 +1,5 @@
 
-#Interaktive Karte der rechten "Einzelfälle" in der deutschen Polizei
+# Interaktive Karte der rechten "Einzelfälle" in der deutschen Polizei
 
 Meine Idee für eine Interaktive Infografik ist die eine Darstellung der rechten Einzelfälle in der Polizei. </br>
 Dazu werde ich in Recherchearbeit Zeitungsartikel zu den verschiedensten Vorfällen wie Verschicken rechter Memes, </br>
