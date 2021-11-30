@@ -13,7 +13,7 @@ Hat sich das Useri durch die gesamte Liste geklickt, ist die Deutschlandkarte vo
 ### Aufgaben
 1. Schaue dir einen Fall genauer an   
 2. Erzeuge einen Marker auf der Map   
-3. Zoome auf den erzeugtten Marker
+3. Zoome auf den erzeugten Marker
 
 ### User Tests
 Die Namen der Probandis wurden im Folgenden anonymisiert und verändert.
