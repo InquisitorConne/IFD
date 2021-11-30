@@ -15,16 +15,16 @@ Hat sich das Useri durch die gesamte Liste geklickt, ist die Deutschlandkarte vo
 2. Erzeuge einen Marker auf der Map   
 3. Zoome auf den erzeugtten Marker
 
-## User Tests
+### User Tests
 Die Namen der Probandis wurden im Folgenden anonymisiert und verändert.
 
-## Ergebnis der User Tests 
+#### Ergebnis der User Tests 
 
-### Maya, 25, Studentin
+#### Maya, 25, Studentin
 Es gab keine Probleme bei der Bedienung der Funktionalitäten. Lediglich der Hinweis, dass die Webseite noch schöner gestaltet werden kann.
 
-### Annika, 22, Studentin
+#### Annika, 22, Studentin
 Auch hier gab es keine Probleme bei der Benutzung. 
 
-### Hannes, 23, Student
+#### Hannes, 23, Student
 Es wurde nicht direkt erkannt, dass beim Klicken auf einen Vorfall, ein Marker erzeugt wird. Es kam der Vorschlag beim Erzeugen eines Markers, kurz einen Rahmen um die Map erscheinen zu lassen um zu zeigen, dass dort etwas passiert ist.  
