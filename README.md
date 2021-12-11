@@ -12,4 +12,4 @@
 
 ## Aufgabe 08
 ### [08 Prototype Enhancement](docs/Aufgaben/Aufgabe08/aufgabe08.md)
-### [0Link zum Prototyp](https://sftp.hs-furtwangen.de/~rueckcor/IFD/Webseite/webseite.html)
+### [Link zum Prototyp](https://sftp.hs-furtwangen.de/~rueckcor/IFD/Webseite/webseite.html)
