@@ -5,7 +5,7 @@
 
 Alle Vorfälle mit Koordinaten zu versehen damit Marker erzeugt werden können, ist wie die Recherche der ganzen Fälle, ein rießiger Zeitaufwand. Das Framework steht schon, es müss lediglich die Koordinaten der Orte in denen die Vorfölle passiert sind, recherchiert werden und Koordinaten doppelt genannter Orte ein wenig vershcoben werden, damit sie sich nicht überlagern.  
 
-![Koordinaten](Koordinaten.jpg)
+![Koordinaten](koordinaten.jpg)
 
 ## User Tests
 Die Namen der Probandis wurden im Folgenden anonymisiert und verändert.
