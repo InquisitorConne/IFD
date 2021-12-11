@@ -9,3 +9,6 @@
 
 ## Aufgabe 07
 ### [07 Leitfaden & User Test Ergebnisse](docs/Aufgaben/Aufgabe07/leitfadenetc.md)
+
+## Aufgabe 08
+### [08 Prototype Enhancement](docs/Aufgaben/Aufgabe08/aufgabe09.md)
