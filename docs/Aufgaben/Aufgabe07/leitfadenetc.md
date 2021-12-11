@@ -30,6 +30,6 @@ Hannes, 23, Student
 Es wurde nicht direkt erkannt, dass beim Klicken auf einen Vorfall, ein Marker erzeugt wird. Es kam der Vorschlag beim Erzeugen eines Markers, kurz einen Rahmen um die Map erscheinen zu lassen um zu zeigen, dass dort etwas passiert ist.  
 
 
-#### Verbesserungen
+## Verbesserungen
 1. Alle Vorfälle mit Koordinaten versehen, damit Marker erzeugt werden können
 2. Leuchtender Rahmen um die Map, wenn ein Marker erzeugt wurde
