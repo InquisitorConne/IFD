@@ -8,4 +8,4 @@
 ### [02 Low Fidelity Scribble](docs/Aufgaben/Aufgabe02/lowfidscribble.jpg)
 
 ## Aufgabe 07
-### [07 Leitfaden & User Test Ergebnisse](Aufgaben/Aufgabe07/leitfadenetc.md)
+### [07 Leitfaden & User Test Ergebnisse](docs/Aufgaben/Aufgabe07/leitfadenetc.md)
