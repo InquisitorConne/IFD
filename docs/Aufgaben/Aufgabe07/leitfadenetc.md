@@ -32,4 +32,4 @@ Es wurde nicht direkt erkannt, dass beim Klicken auf einen Vorfall, ein Marker e
 
 ## Verbesserungen
 1. Alle Vorfälle mit Koordinaten versehen, damit Marker erzeugt werden können
-2. Leuchtender Rahmen um die Map, wenn ein Marker erzeugt wurde
+2. Kurz aufleuchtender Rahmen um die Map, wenn ein Marker erzeugt wurde
