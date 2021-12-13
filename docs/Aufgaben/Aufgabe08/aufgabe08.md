@@ -8,6 +8,6 @@ Alle Vorfälle mit Koordinaten zu versehen damit Marker erzeugt werden können, 
 ![Koordinaten](koordinaten.jpg)
 
 ## 2. aufleuchtender Rahmen um die Map beim Erzeugen von Markern
-Das temporäre Erzeugen eines Rahmens um die Map bei der MArkerezeugung ist relativ kompliziert umzusetzen. Dafür hat mir die Zeit nisher nicht gereicht. 
+Das temporäre Erzeugen eines Rahmens um die Map bei der Markerezeugung ist relativ kompliziert umzusetzen und die Zeit hat mir dafür bisher nicht gereicht. 
 Ich werde mein Bestes geben, das ganez in der finalen Version noch zu implementieren. 
 
