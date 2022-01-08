@@ -14,4 +14,4 @@
 ### [Link zum Prototyp](https://sftp.hs-furtwangen.de/~rueckcor/IFD/Webseite/webseite.html)
 
 ## Aufgabe 10
-### [10 PPrototyping eines Voice User Interfaces](docs/Aufgaben/Aufgabe10/prototypingvui.md)
+### [10 Prototyping eines Voice User Interfaces](docs/Aufgaben/Aufgabe10/prototypingvui.md)
