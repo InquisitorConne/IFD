@@ -10,5 +10,5 @@ Relevant für einen Sprachassistenten wären das Klicekn der Vorfälle und das S
 Ein Szenario, in der ich mir die Nutzung eines Sprachassistenten in meinem Fall vorstellen kann, ist eine öffentliche Ausstellung, gerade jetzt, mitten in der Pandemie.
 So könnten Nutzis mit dem GUI interagieren, ohne ihn anfassen zu müssen, was hygienischer ist, als wenn alle Nutzis eine Maus anfassen oder über einen Touchscreen den GUI bedienen.
 
-### Lof-Fid VUI
-
+### Low-Fid VUI
+![Low-Fid VUI](Low-Fiw VUI.drawio.png)
