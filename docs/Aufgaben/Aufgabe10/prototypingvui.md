@@ -11,4 +11,4 @@ Ein Szenario, in der ich mir die Nutzung eines Sprachassistenten in meinem Fall 
 So könnten Nutzis mit dem GUI interagieren, ohne ihn anfassen zu müssen, was hygienischer ist, als wenn alle Nutzis eine Maus anfassen oder über einen Touchscreen den GUI bedienen.
 
 ### Low-Fid VUI
-![Low-Fid VUI](Low-Fid VUI.png)
+![Low-Fid VUI](Low-Fid VUI.png) 
