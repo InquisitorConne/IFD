@@ -1,6 +1,6 @@
 # Prototyping eines Voice User Interfaces
 
-## KOnzeptentwurf
+## Konzeptentwurf
 
 ### Relevante Aspekte
 Meinen GUI Prototyp als VUI umzusetzen fällt mir schwer, da ich mich von Anfang an auf das Klicken als Hauptinteraktion festgelegt habe. 
