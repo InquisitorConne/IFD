@@ -1,4 +1,4 @@
-# IFD
+# Visualisierung rechtsextremer Einzelfälle in der deutschen Polizei
 
 ## Aufgabe 01
 ### [01.1 Themenvorschlag **Interaktive Datenvisualisierung**](docs/Aufgaben/Aufgabe01/Themenvorschlag.md)
